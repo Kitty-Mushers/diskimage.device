@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language czech
+## codeset 5
+;
+MSG_OK_GAD
+_Ok
+; _Ok
+;
+MSG_CANCEL_GAD
+_Zru¹it
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Zadejte heslo:
+; Enter password:
+;
+MSG_NOZLIB
+vy¾aduje se z.library
+; z.library required
+;
+MSG_NOCAPSDEV
+vy¾aduje se capsimage.device
+; capsimage.device required
+;
+MSG_CANCELED
+operace zru¹ena
+; operation canceled
+;
+MSG_NOPASSWD
+vy¾aduje se heslo
+; password required
+;
+MSG_WRONGPASSWD
+nesprávné heslo
+; wrong password
+;
+MSG_ZLIBERR
+chyba z.library
+; z.library error
+;
+MSG_CAPSERR
+chyba capsimage.device
+; capsimage.device error
+;
+MSG_XPKERR
+chyba xpkmaster.library
+; xpkmaster.library error
+;
+MSG_XADERR
+chyba xadmaster.library
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+nepodporovaný typ/formát obrazu disku
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+nepodporovaná metoda komprese
+; unsupported compression method
+;
+MSG_EOF
+neoèekávaný konec souboru
+; unexpected end of file
+;
+MSG_BADDATA
+soubor obsahuje chybná data
+; file contains bad data
+;
+MSG_BADCRC
+kontrola CRC dat souboru selhala
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+chyba kontrolního souètu
+; checksum error
+;
+MSG_REQ
+vy¾aduje se %s
+; %s required
+;
+MSG_REQVER
+vy¾aduje se %s v%ld nebo novìj¹í
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+nesprávný soubor DAA (vícesouborový DAA)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+chyba expat.library
+; expat.library error
+;
+MSG_BZLIBERR
+chyba bz2.library
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+nepodporovaná metoda ¹ifrování
+; unsupported encryption method
+;

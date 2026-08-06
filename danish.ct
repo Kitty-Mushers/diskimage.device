@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_OK_GAD
+_O.k.
+; _Ok
+;
+MSG_CANCEL_GAD
+_Afbryd
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Indtast adgangskode:
+; Enter password:
+;
+MSG_NOZLIB
+z.library kræves
+; z.library required
+;
+MSG_NOCAPSDEV
+capsimage.device kræves
+; capsimage.device required
+;
+MSG_CANCELED
+handlingen blev afbrudt
+; operation canceled
+;
+MSG_NOPASSWD
+adgangskode kræves
+; password required
+;
+MSG_WRONGPASSWD
+forkert adgangskode
+; wrong password
+;
+MSG_ZLIBERR
+z.library-fejl
+; z.library error
+;
+MSG_CAPSERR
+capsimage.device-fejl
+; capsimage.device error
+;
+MSG_XPKERR
+xpkmaster.library-fejl
+; xpkmaster.library error
+;
+MSG_XADERR
+xadmaster.library-fejl
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+ikke-understøttet diskbilledtype/-format
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+ikke-understøttet komprimeringsmetode
+; unsupported compression method
+;
+MSG_EOF
+uventet filafslutning
+; unexpected end of file
+;
+MSG_BADDATA
+filen indeholder ugyldige data
+; file contains bad data
+;
+MSG_BADCRC
+CRC-kontrol af fildata mislykkedes
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+kontrolsumfejl
+; checksum error
+;
+MSG_REQ
+%s kræves
+; %s required
+;
+MSG_REQVER
+%s v%ld eller nyere kræves
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+forkert DAA-fil (DAA med flere filer)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library-fejl
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library-fejl
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+ikke-understøttet krypteringsmetode
+; unsupported encryption method
+;

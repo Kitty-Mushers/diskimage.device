@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_OK_GAD
+_Ok
+; _Ok
+;
+MSG_CANCEL_GAD
+_Annuleer
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Voer wachtwoord in:
+; Enter password:
+;
+MSG_NOZLIB
+z.library vereist
+; z.library required
+;
+MSG_NOCAPSDEV
+capsimage.device vereist
+; capsimage.device required
+;
+MSG_CANCELED
+bewerking geannuleerd
+; operation canceled
+;
+MSG_NOPASSWD
+wachtwoord vereist
+; password required
+;
+MSG_WRONGPASSWD
+verkeerd wachtwoord
+; wrong password
+;
+MSG_ZLIBERR
+z.library-fout
+; z.library error
+;
+MSG_CAPSERR
+capsimage.device-fout
+; capsimage.device error
+;
+MSG_XPKERR
+xpkmaster.library-fout
+; xpkmaster.library error
+;
+MSG_XADERR
+xadmaster.library-fout
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+niet-ondersteund schijfimagetype/-formaat
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+niet-ondersteunde compressiemethode
+; unsupported compression method
+;
+MSG_EOF
+onverwacht einde van bestand
+; unexpected end of file
+;
+MSG_BADDATA
+bestand bevat onjuiste gegevens
+; file contains bad data
+;
+MSG_BADCRC
+CRC-controle op bestandsgegevens mislukt
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+controlesomfout
+; checksum error
+;
+MSG_REQ
+%s vereist
+; %s required
+;
+MSG_REQVER
+%s v%ld of nieuwer vereist
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+verkeerd DAA-bestand (DAA met meerdere bestanden)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library-fout
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library-fout
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+niet-ondersteunde versleutelingsmethode
+; unsupported encryption method
+;

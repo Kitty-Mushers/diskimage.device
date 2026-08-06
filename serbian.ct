@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_OK_GAD
+_Ok
+; _Ok
+;
+MSG_CANCEL_GAD
+_Poniçti
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Unesite lozinku:
+; Enter password:
+;
+MSG_NOZLIB
+potrebna je z.library
+; z.library required
+;
+MSG_NOCAPSDEV
+potreban je capsimage.device
+; capsimage.device required
+;
+MSG_CANCELED
+operacija otkazana
+; operation canceled
+;
+MSG_NOPASSWD
+potrebna je lozinka
+; password required
+;
+MSG_WRONGPASSWD
+pogreçna lozinka
+; wrong password
+;
+MSG_ZLIBERR
+greçka u z.library
+; z.library error
+;
+MSG_CAPSERR
+greçka u capsimage.device
+; capsimage.device error
+;
+MSG_XPKERR
+greçka u xpkmaster.library
+; xpkmaster.library error
+;
+MSG_XADERR
+greçka u xadmaster.library
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+nepodr§an tip/format slike diska
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+nepodr§an metod kompresije
+; unsupported compression method
+;
+MSG_EOF
+neoŸekivan kraj fajla
+; unexpected end of file
+;
+MSG_BADDATA
+fajl sadr§i neispravne podatke
+; file contains bad data
+;
+MSG_BADCRC
+CRC provera podataka fajla nije uspela
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+greçka u kontrolnoj sumi
+; checksum error
+;
+MSG_REQ
+potreban je %s
+; %s required
+;
+MSG_REQVER
+potreban je %s v%ld ili noviji
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+pogreçan DAA fajl (DAA sa viçe fajlova)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+greçka u expat.library
+; expat.library error
+;
+MSG_BZLIBERR
+greçka u bz2.library
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+nepodr§an metod çifrovanja
+; unsupported encryption method
+;

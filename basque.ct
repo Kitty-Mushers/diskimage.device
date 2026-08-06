@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+MSG_OK_GAD
+_Ados
+; _Ok
+;
+MSG_CANCEL_GAD
+_Deuseztu
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Sartu pasahitza:
+; Enter password:
+;
+MSG_NOZLIB
+z.library behar da
+; z.library required
+;
+MSG_NOCAPSDEV
+capsimage.device behar da
+; capsimage.device required
+;
+MSG_CANCELED
+eragiketa deuseztatu da
+; operation canceled
+;
+MSG_NOPASSWD
+pasahitza behar da
+; password required
+;
+MSG_WRONGPASSWD
+pasahitz okerra
+; wrong password
+;
+MSG_ZLIBERR
+z.library errorea
+; z.library error
+;
+MSG_CAPSERR
+capsimage.device errorea
+; capsimage.device error
+;
+MSG_XPKERR
+xpkmaster.library errorea
+; xpkmaster.library error
+;
+MSG_XADERR
+xadmaster.library errorea
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+onartu gabeko disko-irudi mota/formatua
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+onartu gabeko konpresio-metodoa
+; unsupported compression method
+;
+MSG_EOF
+fitxategiaren ustekabeko amaiera
+; unexpected end of file
+;
+MSG_BADDATA
+fitxategiak datu okerrak ditu
+; file contains bad data
+;
+MSG_BADCRC
+fitxategiko datuen CRC egiaztapenak huts egin du
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+kontrol-baturaren errorea
+; checksum error
+;
+MSG_REQ
+%s behar da
+; %s required
+;
+MSG_REQVER
+%s v%ld edo berriagoa behar da
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+DAA fitxategi okerra (fitxategi anitzeko DAA)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library errorea
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library errorea
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+onartu gabeko zifratze-metodoa
+; unsupported encryption method
+;

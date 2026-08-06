@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_OK_GAD
+_D'acord
+; _Ok
+;
+MSG_CANCEL_GAD
+_Cancel.lar
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Introduïu la contrasenya:
+; Enter password:
+;
+MSG_NOZLIB
+cal z.library
+; z.library required
+;
+MSG_NOCAPSDEV
+cal capsimage.device
+; capsimage.device required
+;
+MSG_CANCELED
+operació cancel·lada
+; operation canceled
+;
+MSG_NOPASSWD
+cal una contrasenya
+; password required
+;
+MSG_WRONGPASSWD
+contrasenya incorrecta
+; wrong password
+;
+MSG_ZLIBERR
+error de z.library
+; z.library error
+;
+MSG_CAPSERR
+error de capsimage.device
+; capsimage.device error
+;
+MSG_XPKERR
+error de xpkmaster.library
+; xpkmaster.library error
+;
+MSG_XADERR
+error de xadmaster.library
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+tipus/format d'imatge de disc no admès
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+mètode de compressió no admès
+; unsupported compression method
+;
+MSG_EOF
+final de fitxer inesperat
+; unexpected end of file
+;
+MSG_BADDATA
+el fitxer conté dades incorrectes
+; file contains bad data
+;
+MSG_BADCRC
+ha fallat la comprovació CRC de les dades del fitxer
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+error de suma de verificació
+; checksum error
+;
+MSG_REQ
+cal %s
+; %s required
+;
+MSG_REQVER
+cal %s v%ld o més recent
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+fitxer DAA incorrecte (DAA multifitxer)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+error d'expat.library
+; expat.library error
+;
+MSG_BZLIBERR
+error de bz2.library
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+mètode de xifratge no admès
+; unsupported encryption method
+;

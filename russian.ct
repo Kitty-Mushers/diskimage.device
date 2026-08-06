@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language russian
+## codeset 2104
+;
+MSG_OK_GAD
+_OK
+; _Ok
+;
+MSG_CANCEL_GAD
+Отмена
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Введите пароль:
+; Enter password:
+;
+MSG_NOZLIB
+требуется z.library
+; z.library required
+;
+MSG_NOCAPSDEV
+требуется capsimage.device
+; capsimage.device required
+;
+MSG_CANCELED
+операция отменена
+; operation canceled
+;
+MSG_NOPASSWD
+требуется пароль
+; password required
+;
+MSG_WRONGPASSWD
+неверный пароль
+; wrong password
+;
+MSG_ZLIBERR
+ошибка z.library
+; z.library error
+;
+MSG_CAPSERR
+ошибка capsimage.device
+; capsimage.device error
+;
+MSG_XPKERR
+ошибка xpkmaster.library
+; xpkmaster.library error
+;
+MSG_XADERR
+ошибка xadmaster.library
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+неподдерживаемый тип/формат образа диска
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+неподдерживаемый метод сжатия
+; unsupported compression method
+;
+MSG_EOF
+неожиданный конец файла
+; unexpected end of file
+;
+MSG_BADDATA
+файл содержит повреждённые данные
+; file contains bad data
+;
+MSG_BADCRC
+ошибка проверки CRC данных файла
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+ошибка контрольной суммы
+; checksum error
+;
+MSG_REQ
+требуется %s
+; %s required
+;
+MSG_REQVER
+требуется %s v%ld или новее
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+неверный файл DAA (многофайловый DAA)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+ошибка expat.library
+; expat.library error
+;
+MSG_BZLIBERR
+ошибка bz2.library
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+неподдерживаемый метод шифрования
+; unsupported encryption method
+;

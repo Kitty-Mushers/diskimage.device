@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_OK_GAD
+_Rendben
+; _Ok
+;
+MSG_CANCEL_GAD
+Mégse
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Add meg a jelszót:
+; Enter password:
+;
+MSG_NOZLIB
+z.library szükséges
+; z.library required
+;
+MSG_NOCAPSDEV
+capsimage.device szükséges
+; capsimage.device required
+;
+MSG_CANCELED
+a mûvelet megszakítva
+; operation canceled
+;
+MSG_NOPASSWD
+jelszó szükséges
+; password required
+;
+MSG_WRONGPASSWD
+hibás jelszó
+; wrong password
+;
+MSG_ZLIBERR
+z.library hiba
+; z.library error
+;
+MSG_CAPSERR
+capsimage.device hiba
+; capsimage.device error
+;
+MSG_XPKERR
+xpkmaster.library hiba
+; xpkmaster.library error
+;
+MSG_XADERR
+xadmaster.library hiba
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+nem támogatott lemezkép-típus/formátum
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+nem támogatott tömörítési eljárás
+; unsupported compression method
+;
+MSG_EOF
+váratlan fájlvége
+; unexpected end of file
+;
+MSG_BADDATA
+a fájl hibás adatokat tartalmaz
+; file contains bad data
+;
+MSG_BADCRC
+a fájladatok CRC-ellenõrzése sikertelen
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+ellenõrzõösszeg-hiba
+; checksum error
+;
+MSG_REQ
+%s szükséges
+; %s required
+;
+MSG_REQVER
+%s v%ld vagy újabb szükséges
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+hibás DAA fájl (több fájlból álló DAA)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library hiba
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library hiba
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+nem támogatott titkosítási eljárás
+; unsupported encryption method
+;

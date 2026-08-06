@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language português
+## codeset 0
+;
+MSG_OK_GAD
+_Ok
+; _Ok
+;
+MSG_CANCEL_GAD
+_Cancelar
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Introduza a palavra-passe:
+; Enter password:
+;
+MSG_NOZLIB
+é necessária a z.library
+; z.library required
+;
+MSG_NOCAPSDEV
+é necessário o capsimage.device
+; capsimage.device required
+;
+MSG_CANCELED
+operação cancelada
+; operation canceled
+;
+MSG_NOPASSWD
+é necessária uma palavra-passe
+; password required
+;
+MSG_WRONGPASSWD
+palavra-passe errada
+; wrong password
+;
+MSG_ZLIBERR
+erro da z.library
+; z.library error
+;
+MSG_CAPSERR
+erro do capsimage.device
+; capsimage.device error
+;
+MSG_XPKERR
+erro da xpkmaster.library
+; xpkmaster.library error
+;
+MSG_XADERR
+erro da xadmaster.library
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+tipo/formato de imagem de disco não suportado
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+método de compressão não suportado
+; unsupported compression method
+;
+MSG_EOF
+fim de ficheiro inesperado
+; unexpected end of file
+;
+MSG_BADDATA
+o ficheiro contém dados inválidos
+; file contains bad data
+;
+MSG_BADCRC
+falhou a verificação CRC dos dados do ficheiro
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+erro de checksum
+; checksum error
+;
+MSG_REQ
+%s necessário
+; %s required
+;
+MSG_REQVER
+é necessário %s v%ld ou mais recente
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+ficheiro DAA errado (DAA multi-ficheiro)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+erro da expat.library
+; expat.library error
+;
+MSG_BZLIBERR
+erro da bz2.library
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+método de encriptação não suportado
+; unsupported encryption method
+;

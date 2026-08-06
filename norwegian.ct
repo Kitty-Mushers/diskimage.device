@@ -1,0 +1,100 @@
+## version $VER: diskimagedevice.catalog 1.0 (06.08.2026)
+## language norsk
+## codeset 0
+;
+MSG_OK_GAD
+_Ok
+; _Ok
+;
+MSG_CANCEL_GAD
+_Avbryt
+; _Cancel
+;
+MSG_PASSWORD_REQ
+Skriv inn passord:
+; Enter password:
+;
+MSG_NOZLIB
+z.library kreves
+; z.library required
+;
+MSG_NOCAPSDEV
+capsimage.device kreves
+; capsimage.device required
+;
+MSG_CANCELED
+operasjonen ble avbrutt
+; operation canceled
+;
+MSG_NOPASSWD
+passord kreves
+; password required
+;
+MSG_WRONGPASSWD
+feil passord
+; wrong password
+;
+MSG_ZLIBERR
+z.library-feil
+; z.library error
+;
+MSG_CAPSERR
+capsimage.device-feil
+; capsimage.device error
+;
+MSG_XPKERR
+xpkmaster.library-feil
+; xpkmaster.library error
+;
+MSG_XADERR
+xadmaster.library-feil
+; xadmaster.library error
+;
+MSG_UNKNDISKIMGTYPE
+diskbildetypen/-formatet støttes ikke
+; unsupported disk image type/format
+;
+MSG_UNKNCOMPMETHOD
+komprimeringsmetoden støttes ikke
+; unsupported compression method
+;
+MSG_EOF
+uventet slutt på filen
+; unexpected end of file
+;
+MSG_BADDATA
+filen inneholder ugyldige data
+; file contains bad data
+;
+MSG_BADCRC
+CRC-kontroll av fildata mislyktes
+; CRC check on file data failed
+;
+MSG_BADCHECKSUM
+sjekksumfeil
+; checksum error
+;
+MSG_REQ
+%s kreves
+; %s required
+;
+MSG_REQVER
+%s v%ld eller nyere kreves
+; %s v%ld or newer required
+;
+MSG_WRONGDAA
+feil DAA-fil (DAA med flere filer)
+; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library-feil
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library-feil
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+krypteringsmetoden støttes ikke
+; unsupported encryption method
+;
