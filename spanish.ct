@@ -1,4 +1,4 @@
-## version $VER: diskimagedevice.catalog 1.1 (29.02.2008)
+## version $VER: diskimagedevice.catalog 1.1 (06.08.2026)
 ## language español
 ## codeset 0
 ;
@@ -86,4 +86,16 @@ Requiere '%s' V%ld o superior.
 MSG_WRONGDAA
 Fichero DAA erróneo (fichero múltiple)
 ; wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+Error de 'expat.library'
+; expat.library error
+;
+MSG_BZLIBERR
+Error de 'bz2.library'
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+Método de encriptación no soportado
+; unsupported encryption method
 ;

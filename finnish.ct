@@ -1,7 +1,7 @@
 ;## chunk AUTH Janne Per‰aho
 ## language suomi
 ## codeset 0
-## version $VER: diskimagedevice.catalog 52.38 (24.04.2008)
+## version $VER: diskimagedevice.catalog 52.38 (06.08.2026)
 MSG_OK_GAD
 _Ok
 ;#DEF _Ok
@@ -86,3 +86,15 @@ MSG_WRONGDAA
 v‰‰r‰ DAA-tiedosto (moniosainen DAA-tiedosto)
 ;#DEF wrong DAA file (multi-file DAA)
 ;#SET (/1/64)
+MSG_EXPATERR
+virhe expat.library -kirjastossa
+; expat.library error
+;
+MSG_BZLIBERR
+virhe bz2.library -kirjastossa
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+salausmenetelm‰‰ ei tueta
+; unsupported encryption method
+;

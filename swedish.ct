@@ -1,4 +1,4 @@
-## version $VER: diskimagedevice.catalog 1.00 (13.06.2012)
+## version $VER: diskimagedevice.catalog 1.00 (06.08.2026)
 ## codeset 0
 ## language svenska
 ;
@@ -86,4 +86,16 @@ MSG_REQVER
 MSG_WRONGDAA
 Fel DDA fil (multi-file DAA)
 ;wrong DAA file (multi-file DAA)
+;
+MSG_EXPATERR
+expat.library fel
+; expat.library error
+;
+MSG_BZLIBERR
+bz2.library fel
+; bz2.library error
+;
+MSG_UNKNENCRMETHOD
+Ej supportad krypteringsmetod
+; unsupported encryption method
 ;
